@@ -35,9 +35,9 @@ You may fit the role if you:
 
  - Are experienced in developing applications using Rust.
 	i.e. you’re able to implement complex functions in idiomatic Rust.
- - Possess a keen interest in information security.  Have a practical knowledge
- - of cryptographic signature schemes.  Are passionate about Ethereum,
- - proof-of-stake blockchains, and/or decentralised systems.
+ - Possess a keen interest in information security.  
+ - Have a practical knowledge of cryptographic signature schemes.  
+ - Are passionate about Ethereum, proof-of-stake blockchains, and/or decentralised systems.
 
 This role is for a *junior* developer whose primary objective will be to
 contribute towards development of the Lighthouse project. Secondary objectives
