@@ -16,9 +16,9 @@ locally and internationally.
 
 Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust. The
 project is already established and development has begun; the open-source
-repository can be found at github.com/sigp/lighthouse. We are honoured to have
-received a grant from the Ethereum Foundation that enables us to expand our
-development capabilities.
+repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse).
+We are honoured to have received a grant from the Ethereum Foundation that enables
+us to expand our development capabilities.
 
 Our office is located on King Street, Newtown, one of Sydney’s great cultural
 hubs. Between coding and consulting, we like to catch up for lunch or a drink
