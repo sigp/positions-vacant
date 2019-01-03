@@ -20,11 +20,6 @@ repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/
 We are honoured to have received a grant from the Ethereum Foundation that enables
 us to expand our development capabilities.
 
-Our office is located on King Street, Newtown, one of Sydney’s great cultural
-hubs. Between coding and consulting, we like to catch up for lunch or a drink
-at one of Newtown’s many cafes and bars.
-
-
 ## The Role
 
 We are looking to expand our core team by hiring a software engineer who shares
@@ -52,9 +47,9 @@ direct interaction with the Ethereum Foundation research team.
 
 ## Location
 
-Sigma Prime has a private office near Newtown train station in Sydney, and the
-ideal candidate would be able to work with our team in the office. While it is
-less ideal, we are also open to an otherwise ideal candidate working remotely.
+Sigma Prime is based in Sydney, Australia, and while local candidates are preferred,
+remote work is an essential part of our company culture. Those who work remotely still
+form an integral part of the team.
 
 ## Apply
 
