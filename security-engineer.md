@@ -62,8 +62,7 @@ Sigma Prime can also help the right candidate relocate to Sydney if desired.
 ## Apply
 
 If this role sounds suitable for you, please answer a few questions on the
-following form and we will be in touch: [Application: Blockchain
-Developer](https://forms.gle/juvZ7LWcQD7SVYQA6)
+following form and we will be in touch: [Application: Security Engineer](https://forms.gle/juvZ7LWcQD7SVYQA6)
 
 Whilst Google Forms makes managing applications easier for us, we understand if
 you'd prefer not to use it. In such a case, you can send us an email at
