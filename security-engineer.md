@@ -1,6 +1,6 @@
 # Wanted: Security Engineer
 
-Sigma Prime is hiring a security engineer to expand its security assessment practice. If you're into penetration testing, smart contracts security reviews and/or fuzzing code, this may the perfect job for you!
+Sigma Prime is hiring a security engineer to expand its security assessment practice. If you're into penetration testing, smart contract security reviews, and/or fuzzing code, this could be the perfect job for you!
 
 ## The Company
 
@@ -10,10 +10,10 @@ engineers who have come together with the purpose of building a secure and
 decentralised world.
 
 Ethereum has been a focus of ours since 2015, and we have provided security
-reviews, design consultancy, and niche development services to prominent players in the space, both locally and globally.
+reviews, design consultancy, and niche development services to prominent companies in the space, both locally and internationally.
 
-Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust. The
-project is already well established; the open-source
+Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust. While the software is still in the pre-alpha development phase, the
+project is already well established. The open-source
 repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). We are honoured to have received a grant from the Ethereum Foundation for this initiative.
 
 Our information security practice provides the following services:
@@ -44,9 +44,9 @@ You may fit the role if you have:
 
 This role is for a security engineer whose primary objectives will be to:
 
-* Perform (offensive) security assessments (penetration testing of web/mobile/decentralised applications, cloud infrastructure security reviews, etc.)
-* Contribute to [Lighthouse](https://github.com/sigp/lighthouse) by extending the current fuzzing capability,
-* Work on the design and implementation of a differential fuzzer for Ethereum 2.0
+* Perform (offensive) security assessments (penetration testing of web/mobile/decentralised applications, cloud infrastructure security reviews, etc.).
+* Contribute to [Lighthouse](https://github.com/sigp/lighthouse) by extending the current fuzzing capability.
+* Work on the design and implementation of a differential fuzzer for Ethereum 2.0.
 
 The ideal candidate would be a seasoned security assessor and an Ethereum enthusiast with experience in smart contract auditing, who is looking to help secure software at the
 core of the Ethereum ecosystem.
@@ -63,7 +63,7 @@ Sigma Prime can also help the right candidate relocate to Sydney if desired.
 
 If this role sounds suitable for you, please answer a few questions on the
 following form and we will be in touch: [Application: Blockchain
-Developer](https://todo)
+Developer](https://forms.gle/juvZ7LWcQD7SVYQA6)
 
 Whilst Google Forms makes managing applications easier for us, we understand if
 you'd prefer not to use it. In such a case, you can send us an email at
