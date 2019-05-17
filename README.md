@@ -13,13 +13,12 @@ and apply to work with us! We would love to hear from you.
 
 Currently open roles are listed as separate markdown files in this repository.
 
-Presently there is one position available:
+Presently there are two position available:
   - [Blockchain Rust Developer](blockchain-developer.md)
-	Help us work on open-source software.
+  - [Security Engineer](security-engineer.md)
 
 ## Get in touch
 
 If you would like to work with us, but don't feel that applying for one of
 these is for you, please e-mail us directly:
 [careers@sigmaprime.io](mailto:careers@sigmaprime.io)
-
