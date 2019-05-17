@@ -6,7 +6,7 @@ collaborate with.
 While we consider some collaborations to be "external", we also like to grow
 our internal team when the right people come along.
 
-Are you are good fit to join our team? Please take a look at our open positions
+Are you a good fit to join our team? Please take a look at our open positions
 and apply to work with us! We would love to hear from you.
 
 ## In this repo.
