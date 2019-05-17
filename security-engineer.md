@@ -9,12 +9,12 @@ blockchain expertise. We are a team of developers, researchers, and security
 engineers who have come together with the purpose of building a secure and
 decentralised world.
 
-Ethereum has been a focus of ours since 2015, and we have provided security
+Ethereum has been a focus of ours since 2015 and we have provided security
 reviews, design consultancy, and niche development services to prominent companies in the space, both locally and internationally.
 
 Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust. While the software is still in the pre-alpha development phase, the
 project is already well established. The open-source
-repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). We are honoured to have received a grant from the Ethereum Foundation for this initiative.
+repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). We are honoured to have received grants from the [Ethereum Foundation](https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/) and [Vitalik Buterin](https://twitter.com/VitalikButerin/status/1075214050362093568) for this initiative.
 
 Our information security practice provides the following services:
 
@@ -22,7 +22,7 @@ Our information security practice provides the following services:
 * Smart contract security reviews
 * Infrastructure security assessments
 * Social engineering & red team exercises
-* Fuzz testing
+* Fuzz testing (focussing on Ethereum 2.0, working closely with the Ethereum Foundation)
 
 
 ## The Role
@@ -40,16 +40,15 @@ You may fit the role if you have:
 * A working knowledge of advanced network protocols and infrastructure operations
 * A practical experience in fuzz testing (libfuzzer and/or AFL)
 * Experience with more than one scripting language (e.g. Python, JavaScript, Perl, etc.)
-* A passion for Ethereum, proof-of-stake blockchains, and/or decentralised systems.
+* A passion for Ethereum, proof-of-stake blockchains, and/or decentralised systems
 
 This role is for a security engineer whose primary objectives will be to:
 
-* Perform (offensive) security assessments (penetration testing of web/mobile/decentralised applications, cloud infrastructure security reviews, etc.).
-* Contribute to [Lighthouse](https://github.com/sigp/lighthouse) by extending the current fuzzing capability.
-* Work on the design and implementation of a differential fuzzer for Ethereum 2.0.
+* Perform (offensive) security assessments (penetration testing of web/mobile/decentralised applications, cloud infrastructure security reviews, etc.)
+* Contribute to [Lighthouse](https://github.com/sigp/lighthouse) by extending the current fuzzing capability
+* Work on the design and implementation of a differential fuzzer for Ethereum 2.0
 
-The ideal candidate would be a seasoned security assessor and an Ethereum enthusiast with experience in smart contract auditing, who is looking to help secure software at the
-core of the Ethereum ecosystem.
+The ideal candidate would be a seasoned security assessor and an Ethereum enthusiast with experience in smart contract auditing, who is looking to help secure software at the core of the Ethereum ecosystem.
 
 ## Location
 
