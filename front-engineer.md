@@ -5,7 +5,7 @@ Sigma Prime is hiring a front-end engineer whose primary responsibility will be 
 ## The Company
 
 Sigma Prime is a boutique information security firm who provide specialist blockchain expertise. We are a team of developers, researchers, and security engineers who have come together with the purpose of building a secure and decentralised world.
- 
+
 Ethereum has been a focus of ours since 2015, and we have provided security
 reviews, design consultancy, and niche development services to clients both
 locally and internationally.
@@ -23,10 +23,10 @@ our passion for decentralised systems, and whose development skills compliment
 those of our team.
 
 You may fit the role if you:
-    - Have experience using the React framework.
-    - Are passionate about interface design and user experience.
-    - Have experience or knowledge in using blockchain clients/wallets/DApps.
-    - Are passionate about Ethereum, proof-of-stake blockchains, and/or decentralised systems.
+ - Have experience using the React framework.
+ - Are passionate about interface design and user experience.
+ - Have experience or knowledge in using blockchain clients/wallets/DApps.
+ - Are passionate about Ethereum, proof-of-stake blockchains, and/or decentralised systems.
 
 This role is for a full-stack developer whose role will be to develop
 user-facing interfaces for various low-level tools being constructed at Sigma
@@ -52,4 +52,3 @@ Developer](https://forms.gle/UQP7cp8p6RQwQU4K6)
 Whilst Google Forms makes managing applications easier for us, we understand if
 you'd prefer not to use it. In such a case, you can send us an email at
 [careers@sigmaprime.io](mailto:careers@sigmaprime.io).
-
