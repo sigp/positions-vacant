@@ -4,8 +4,8 @@ Sigma Prime is hiring a security engineer to expand its security assessment prac
 
 ## The Company
 
-**Sigma Prime** is a boutique information security firm who provides specialist
-blockchain expertise. We are a team of developers, researchers, and security
+**Sigma Prime** is an information security consultancy who provides specialist
+distributed systems expertise. We are a team of developers, researchers, and security
 engineers who have come together with the purpose of building a secure and
 decentralised world.
 
@@ -14,7 +14,7 @@ reviews, design consultancy, and niche development services to prominent compani
 
 Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust. While the software is still in the pre-alpha development phase, the
 project is already well established. The open-source
-repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). We are honoured to have received grants from the [Ethereum Foundation](https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/), [Vitalik Buterin](https://twitter.com/VitalikButerin/status/1075214050362093568) and [ConsenSys](https://consensys.net/blog/press-release/consensys-grants-awards-funding-for-third-cohort-of-projects-to-benefit-the-ethereum-ecosystem/) for this initiative.
+repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). We are honoured to have received grants from the [Ethereum Foundation](https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/), [Vitalik Buterin](https://twitblockchainter.com/VitalikButerin/status/1075214050362093568) and [ConsenSys](https://consensys.net/blog/press-release/consensys-grants-awards-funding-for-third-cohort-of-projects-to-benefit-the-ethereum-ecosystem/) for this initiative.
 
 Our information security practice provides the following services:
 
@@ -54,7 +54,7 @@ The ideal candidate would be a seasoned security assessor and an Ethereum enthus
 
 ## Locations
 
-While Sigma Prime is primarily based in NSW, Australia, remote work is an essential part of our company culture. Those who work remotely still form an integral part of the team.
+The candidate is free to choose between being remote or local in Sydney. While Sigma Prime is primarily based in NSW, Australia, remote work is an essential part of our company culture. Those who work remotely still form an integral part of the team.
 
 Sigma Prime can also help the right candidate relocate to Sydney, where our office is, if desired.
 
