@@ -1,6 +1,6 @@
 # Wanted: Executive Assistant (Part-time or Full-time)
 
-Sigma Prime is hiring an executive assistant to support our leadership team and perform a variety of administrative tasks. If you're curious about the cybersecurity and blockchain worlds, and would like to join a fast-growing start up, this might be the right opportunity for you!
+Sigma Prime is hiring an executive assistant to support our leadership team and perform a variety of administrative tasks. If you're curious about the cybersecurity and blockchain worlds, and would like to join a fast-growing tech company, this might be the right opportunity for you!
 
 ## The Company
 
@@ -16,7 +16,7 @@ We are looking for someone to help us accelerate our growth in a sustainable way
 * Provide assistance throughout client engagement scoping activities
 * Assist in scheduling client engagements and managing consultant schedule
 * Interface with our bookkeeper and tax agent to help keep our books in order
-* Invoice our clients 
+* Invoice our clients
 * Occasionally assist with travel booking
 * Occasionally help with marketing, recruitment and business development activities
 
