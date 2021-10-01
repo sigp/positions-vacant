@@ -13,10 +13,9 @@ and apply to work with us! We would love to hear from you.
 
 Currently open roles are listed as separate markdown files in this repository.
 
-There are presently three positions available:
-  - [Blockchain Rust Developer](blockchain-developer.md)
+There are presently two positions available:
   - [Blockchain Security Engineer](security-engineer.md)
-  - [Executive Assistant](ea.md)
+  - [Front End Developer](front-end-developer.md)
 
 ## Get in touch
 

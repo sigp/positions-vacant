@@ -1,6 +1,9 @@
 # Wanted: Blockchain Security Engineer
 
-Sigma Prime is hiring a security engineer to expand its security assessment practice. If you're into blockchain security, penetration testing, smart contract security reviews, and/or fuzzing code, this could be the perfect job for you!
+Sigma Prime is hiring a security engineer to expand its security assessment
+practice. If you're into blockchain security, penetration testing, smart
+contract security reviews, and/or fuzzing code, this could be the perfect job
+for you!
 
 ## The Company
 
@@ -10,11 +13,20 @@ engineers who have come together with the purpose of building a secure and
 decentralised world.
 
 Ethereum has been a focus of ours since 2015 and we have provided security
-reviews, design consultancy, and niche development services to prominent companies in the space, both locally and internationally.
+reviews, design consultancy, and niche development services to prominent
+companies in the space, both locally and internationally.
 
-Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust. While the software is still in the pre-alpha development phase, the
-project is already well established. The open-source
-repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). We are honoured to have received grants from the [Ethereum Foundation](https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/), [Vitalik Buterin](https://twitblockchainter.com/VitalikButerin/status/1075214050362093568) and [ConsenSys](https://consensys.net/blog/press-release/consensys-grants-awards-funding-for-third-cohort-of-projects-to-benefit-the-ethereum-ecosystem/) for this initiative.
+Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust.
+While the software is still in the pre-alpha development phase, the project is
+already well established. The open-source repository can be found at
+[github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). We are
+honoured to have received grants from the [Ethereum
+Foundation](https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/),
+[Vitalik
+Buterin](https://twitblockchainter.com/VitalikButerin/status/1075214050362093568)
+and
+[ConsenSys](https://consensys.net/blog/press-release/consensys-grants-awards-funding-for-third-cohort-of-projects-to-benefit-the-ethereum-ecosystem/)
+for this initiative.
 
 Our information security practice provides the following services:
 
@@ -28,8 +40,9 @@ Our information security practice provides the following services:
 
 ## The Role
 
-We are looking to expand our core security team by hiring a blockchain security engineer who shares
-our passion for information security and decentralised systems, and our insatiable curiosity of how things work (and break).
+We are looking to expand our core security team by hiring a blockchain security
+engineer who shares our passion for information security and decentralised
+systems, and our insatiable curiosity of how things work (and break).
 
 You may fit the role if you have:
 
