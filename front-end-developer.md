@@ -1,20 +1,26 @@
-# Wanted: Full Stack Developer
+# Wanted: Front-End Developer
 
-Sigma Prime is hiring a front-end engineer whose primary responsibility will be to contribute to open-source software in the Ethereum community. Candidates should have prior experience with interface design, the React framework, and web-app development.
+Sigma Prime is hiring a Front End Developer whose primary responsibility will
+be to contribute to open-source software in the Ethereum community. Candidates
+should have prior experience with user interface design, the React framework,
+and web-app development.
 
 ## The Company
 
-Sigma Prime is a boutique information security firm who provide specialist blockchain expertise. We are a team of developers, researchers, and security engineers who have come together with the purpose of building a secure and decentralised world.
+Sigma Prime is a boutique information security firm who provide specialist
+blockchain expertise. We are a team of developers, researchers, and security
+engineers who have come together with the purpose of building a secure and
+decentralised world.
 
 Ethereum has been a focus of ours since 2015, and we have provided security
 reviews, design consultancy, and niche development services to clients both
 locally and internationally.
 
 Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust. The
-project is already well established and development has begun; the open-source
-repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse).
-We are honoured to have received a grant from the Ethereum Foundation that enables
-us to expand our development capabilities.
+project is already established and development has begun; the open-source
+repository can be found at github.com/sigp/lighthouse. We are honoured to have
+received a grant from the Ethereum Foundation that enables us to expand our
+development capabilities.
 
 ## The Role
 
@@ -25,16 +31,20 @@ those of our team.
 You may fit the role if you:
  - Have experience using the React framework.
  - Are passionate about interface design and user experience.
- - Have experience or knowledge in using blockchain clients/wallets/DApps.
  - Are passionate about Ethereum, proof-of-stake blockchains, and/or decentralised systems.
 
-This role is for a full-stack developer whose role will be to develop
-user-facing interfaces for various low-level tools being constructed at Sigma
-Prime as well as help develop a user-facing front end for the Lighthouse
-blockchain client.
+Bonus Skills:
+ - Experience or knowledge in using blockchain clients/wallets/DApps.
+ - Strong graphic design skills.
+ - Project management experience.
+
+This role is for a Front End Developer whose role will be to develop user
+interfaces and an occasional website for various low-level tools being
+constructed at Sigma Prime as well as help manage and maintain a user-facing
+front end for the Lighthouse blockchain client.
 
 The ideal candidate would be an Ethereum enthusiast with experience in
-DApp/client front-end development using the React framework, and interest
+DApp/client front-end development using the React framework, and an interest in
 supporting the blockchain community through open source development.
 
 ## Location
