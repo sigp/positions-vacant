@@ -13,7 +13,9 @@ reviews, design consultancy, and niche development services to prominent
 companies in the space, both locally and internationally.
 
 Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust.
-The project is already established and development has begun; the open-source repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). We are honoured to have received a grant from the Ethereum Foundation that enables us to expand our development capabilities.
+The project is well established and considered one of the leading implementations in production today; the open-source repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). The project is supported through grant funding, with contributors such as the Ethereum Foundation, ConsenSys, and many private individuals.
+
+We are a safe place regardless of your ethnicity, gender, sexual orientation or any other characteristic that makes you happy and harms no-one.
 
 ## The Role
 
@@ -29,7 +31,7 @@ You may fit the role if you:
 * Have a practical knowledge of cryptographic signature schemes
 * Are passionate about Ethereum, proof-of-stake blockchains, and/or decentralised systems
 
-This role is for a developer whose primary objective will be to contribute towards development of the Lighthouse project. The role will focus on the networking protocols and infrastructure of the Lighthouse client alongside our current team..
+This role is for a developer whose primary objective will be to contribute towards development of the Lighthouse project. The role will focus on the networking protocols and infrastructure of the Lighthouse client alongside our current team.
 
 The ideal candidate would be an Ethereum enthusiast with experience in asynchronous Rust programming, who is looking to become a contributor to software at the core of the Ethereum ecosystem.
 

@@ -16,11 +16,8 @@ Ethereum has been a focus of ours since 2015 and we have provided security
 reviews, design consultancy, and niche development services to prominent
 companies in the space, both locally and internationally.
 
-Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust. The
-project is already established and development has begun; the open-source
-repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). We are honoured to have
-received a grant from the Ethereum Foundation that enables us to expand our
-development capabilities.
+Our latest project, Lighthouse, is an Ethereum 2.0 client built using Rust.
+The project is well established and considered one of the leading implementations in production today; the open-source repository can be found at [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse). The project is supported through grant funding, with contributors such as the Ethereum Foundation, ConsenSys, and many private individuals.
 
 Our information security practice provides the following services:
 
@@ -31,6 +28,7 @@ Our information security practice provides the following services:
 * Social engineering & red team exercises
 * Fuzz testing
 
+We are a safe place regardless of your ethnicity, gender, sexual orientation or any other characteristic that makes you happy and harms no-one.
 
 ## The Role
 
