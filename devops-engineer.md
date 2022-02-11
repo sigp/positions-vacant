@@ -3,9 +3,9 @@
 Sigma Prime is hiring a devops engineer to assist with managing our expanding
 fleet of Ethereum Beacon Chain staking nodes.
 
-This is an excellent opportunity for an experienced devops engineer to align
-with some of the brightest minds in Ethereum staking and develop the skills to
-manage large-scale staking operations.
+This is an excellent opportunity for a devops engineer to align with some of
+the brightest minds in Ethereum staking and develop the skills to manage
+large-scale staking operations.
 
 ## The Company
 
