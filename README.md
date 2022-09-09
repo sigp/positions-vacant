@@ -13,10 +13,9 @@ and apply to work with us! We would love to hear from you.
 
 Currently open roles are listed as separate markdown files in this repository.
 
-The following positions are open:
+The following position(s) are open:
 
   - [Blockchain Security Engineer](security-engineer.md)
-  - [Front End Developer](front-end-developer.md)
 
 ## Get in touch
 
