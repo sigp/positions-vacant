@@ -61,8 +61,6 @@ The ideal candidate would be a seasoned security assessor and an Ethereum enthus
 
 The candidate is free to choose between being remote or local in Sydney. While Sigma Prime is primarily based in NSW, Australia, remote work is an essential part of our company culture. Those who work remotely still form an integral part of the team.
 
-Sigma Prime can also help the right candidate relocate to Sydney, where our office is, if desired.
-
 ## Apply
 
 If you're interested, please answer a few questions on [this form](https://forms.gle/juvZ7LWcQD7SVYQA6).
