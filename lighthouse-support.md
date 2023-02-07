@@ -1,8 +1,10 @@
-# Wanted: Lighthouse Support Technician
+# Applications Closed: Lighthouse Support Technician
 
 [Lighthouse]: https://github.com/sigp/lighthouse
 [Sigma Prime]: https://sigmaprime.io/
 [ethstaker]: https://www.reddit.com/r/ethstaker/
+
+> **Due to a high volume of quality applicants, we are not accepting new applications. We may re-open applications if we are unable to fill the position. Thank you.**
 
 [Sigma Prime]() is hiring a *support technician* to provide support to
 [Lighthouse]() users and the broader staking
@@ -73,8 +75,10 @@ American time-zones. These time-zones are highly
 
 ## Apply
 
-If you're interested, please answer a few questions on [this Google form](https://docs.google.com/forms/d/1VUzaYrpPvT5BnbRTfYwOpeBAoG1bBEylOFgB8qvg8mI).
+Applications are closed, please see the banner at the top of the page.
 
-Whilst Google Forms makes managing applications easier for us, we understand if
+~~If you're interested, please answer a few questions on [this Google form](https://docs.google.com/forms/d/1VUzaYrpPvT5BnbRTfYwOpeBAoG1bBEylOFgB8qvg8mI).~~
+
+~~Whilst Google Forms makes managing applications easier for us, we understand if
 you'd prefer not to use it. In such a case, feel free to send your application
-via email to [careers@sigmaprime.io](mailto:careers@sigmaprime.io).
+via email to [careers@sigmaprime.io](mailto:careers@sigmaprime.io).~~
