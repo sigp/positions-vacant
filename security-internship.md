@@ -40,7 +40,7 @@ The internship allows for both remote and local placement in Sydney. While Sigma
 
 ## How to Apply
 
-If you're interested in this internship opportunity, please complete the application form [here]().
+If you're interested in this internship opportunity, please complete the application form [here](https://forms.gle/6UXxmxfPYsAzGAt99).
 
 If you prefer not to use the Google Forms application, you can also submit your application via email to [careers@sigmaprime.io](mailto:careers@sigmaprime.io).
 
