@@ -15,7 +15,7 @@ Currently open roles are listed as separate markdown files in this repository.
 
 The following position(s) are open:
 
-  - [Blockchain Security Internship](security-internship.md)
+  - [Blockchain Security Internship](security-internship.md) (Applications Closed)
   - [Blockchain Security Engineer](security-engineer.md)
   - [Lighthouse Support Technician](lighthouse-support.md) (Applications Closed)
 
