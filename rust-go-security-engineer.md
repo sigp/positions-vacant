@@ -4,7 +4,7 @@ Are you passionate about securing decentralised systems and exploring the intric
 
 ## About Us
 
-At **Sigma Prime**, we are dedicated to building a secure and decentralised world. As a leading blockchain security and research firm, Since 2015, Ethereum has been a focal point of our work, and we've collaborated with leading companies in the blockchain space, offering security reviews, design consultancy, and niche development services.
+**Sigma Prime** is a leading blockchain and security research firm,  dedicated to building a secure and decentralised world.  Since we started in 2015, Ethereum has been a focal point of our work, and we've collaborated with some of the leading companies in the blockchain space, offering security reviews, design consultancy, and niche development services in a range of technical capacities.
 
 Our flagship project, [Lighthouse](https://lighthouse.sigmaprime.io/), stands as one of the premier Ethereum consensus clients, and is developed in Rust. Backed by grant funding from the Ethereum Foundation, ConsenSys, and private contributors, Lighthouse is widely entrusted by institutional and individual users for staking on Ethereum and is a testament to our commitment to excellence and security in decentralised systems.
 
