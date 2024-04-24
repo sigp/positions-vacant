@@ -42,8 +42,6 @@ As a Rust/Go Security Engineer at Sigma Prime, you'll play a vital role in asses
 * Ability to conduct manual source code reviews and navigate large codebases
 * Experience with security analysis tools and methodologies
 
-The ideal candidate would be a seasoned security assessor and a Blockchain enthusiast with experience in decentralised system security, who is looking to help secure software at the core of the leading projects in the blockchain ecosystem.
-
 The ideal candidate would be an experienced security assessor and a passionate advocate of Rust and Go programming languages, with a strong background in decentralised system security. We are seeking someone who is enthusiastic about contributing to the security of software at the heart of prominent Blockchain projects, particularly those built in Rust and Go.
 
 ## Locations
