@@ -14,7 +14,7 @@ and apply to work with us! We would love to hear from you.
 Currently open roles are listed as separate markdown files in this repository.
 
 The following position(s) are open:
-
+  - [Blockchain Security Internship](security-internship.md)
   - [Rust/Go Blockchain Security Engineer](rust-go-security-engineer.md)
 
 ## Get in touch
