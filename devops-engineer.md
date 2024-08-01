@@ -3,7 +3,7 @@
 Sigma Prime is hiring a devops engineer to join our team.
 
 This is an excellent opportunity for a devops engineer to align with some of
-the brightest minds in Ethereum staking and develop the skills work alongside
+the brightest minds in blockchain and develop the skills to work alongside
 developers in decentralized networks.
 
 ## The Company
@@ -49,7 +49,7 @@ The ideal candidate should have:
 
 1. **Ansible experience**
 	- Competent with Ansible workspaces, playbooks and other core concepts.
-	- Competent with the Jinja2 tempting language.
+	- Competent with the Jinja2 templating language.
 	- Competent with building and maintaining YAML documents.
 1. **Linux experience**
     - Highly competent with the Linux shell.
