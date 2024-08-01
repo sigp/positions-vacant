@@ -42,6 +42,9 @@ technologies is not required but is favourable.
 
 ## The Candidate
 
+In order to improve coverage of a round-the-clock devops team, we currently
+have a strong preference for a candidate that can work in the APAC timezone.
+
 The ideal candidate should have:
 
 1. **Ansible experience**
