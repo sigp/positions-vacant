@@ -1,6 +1,6 @@
-# Wanted: Rust/Go Security Engineer
+# Wanted: Rust Security Engineer
 
-Are you passionate about securing decentralised systems and exploring the intricacies of Rust and/or Go programming languages? Sigma Prime is seeking a talented Rust/Go Security Engineer to join our team, focusing on conducting Blockchain security assessments for projects built in Rust and Go.
+Do you thrive on identifying vulnerabilities in decentralised systems and have a deep understanding of Rust? Sigma Prime is looking for a skilled Rust Security Engineer to join our team, specialising in reviewing and assessing the security of blockchain projects built with Rust
 
 ## About Us
 
@@ -23,26 +23,26 @@ We are a safe place regardless of your ethnicity, gender, sexual orientation or 
 
 ## The Role
 
-As a Rust/Go Security Engineer at Sigma Prime, you'll play a vital role in assessing the security of blockchain projects developed in Rust and Go. We're seeking individuals with a deep understanding of information security principles, a knack for uncovering vulnerabilities, and a passion for blockchain technology.
+As a Rust Security Engineer at Sigma Prime, you'll play a crucial role in assessing the security of blockchain projects developed in Rust. We are looking for individuals with a deep understanding of information security principles, proficiency in Rust, and a passion for blockchain technology.
 
 ### Responsibilities
 
-* Conduct security assessments of Blockchain projects developed in Rust and Go
-* Review source code for security vulnerabilities in large codebases
-* Develop advanced fuzzing harnesses to assist with vulnerability identification
-* Contribute to enhancing the security posture of Lighthouse
-* Collaborate on the development and maintenance of security tools tailored for Rust and Go projects
+* Conduct security assessments of Blockchain projects developed in Rust.
+* Review source code for security vulnerabilities in large Rust codebases.
+* Develop advanced fuzzing harnesses to assist with vulnerability identification.
+* Contribute to enhancing the security posture of Lighthouse.
+* Collaborate on the development and maintenance of security tools tailored for Rust projects.
 
 ### Requirements
 
-* Proficiency and practical experience in either Rust or Go programming languages
-* Deep understanding of information security principles
-* Experience in conducting security assessments and penetration testing
-* Familiarity with blockchain protocols and decentralised systems
-* Ability to conduct manual source code reviews and navigate large codebases
-* Experience with security analysis tools and methodologies
+* Proficiency and practical experience in Rust programming.
+* Deep understanding of information security principles.
+* Experience in conducting security assessments and penetration testing.
+* Familiarity with blockchain protocols and decentralized systems.
+* Ability to conduct manual source code reviews and navigate large codebases.
+* Experience with security analysis tools and methodologies.
 
-The ideal candidate would be an experienced security assessor and a passionate advocate of Rust and Go programming languages, with a strong background in decentralised system security. We are seeking someone who is enthusiastic about contributing to the security of software at the heart of prominent Blockchain projects, particularly those built in Rust and Go.
+The ideal candidate would be an experienced security assessor and a passionate advocate ofthe Rust programming languages, with a strong background in decentralised system security. We are seeking someone who is enthusiastic about contributing to the security of software at the heart of prominent Blockchain projects, particularly those built in Rust.
 
 ## Locations
 
