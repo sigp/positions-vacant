@@ -42,7 +42,7 @@ As a Rust Security Engineer at Sigma Prime, you'll play a crucial role in assess
 * Ability to conduct manual source code reviews and navigate large codebases.
 * Experience with security analysis tools and methodologies.
 
-The ideal candidate would be an experienced security assessor and a passionate advocate ofthe Rust programming languages, with a strong background in decentralised system security. We are seeking someone who is enthusiastic about contributing to the security of software at the heart of prominent Blockchain projects, particularly those built in Rust.
+The ideal candidate would be an experienced security assessor and a passionate advocate of the Rust programming language, with a strong background in decentralised system security. We are seeking someone who is enthusiastic about contributing to the security of software at the heart of prominent Blockchain projects, particularly those built in Rust.
 
 ## Locations
 
