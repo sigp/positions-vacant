@@ -50,6 +50,6 @@ The position offers the flexibility of remote work or a local presence in Sydney
 
 ## Apply
 
-If you're ready to join our team and contribute to securing the future of blockchain technology, please fill out our application form [here](https://forms.gle/1AHYRya3iQTjdsuv9). Alternatively, you can email your application to [careers@sigmaprime.io](mailto:careers@sigmaprime.io).
+If you're ready to join our team and contribute to securing the future of blockchain technology, please fill out our application form [here](https://forms.gle/1AHYRya3iQTjdsuv9). 
 
 At Sigma Prime, we celebrate diversity and welcome applicants from all backgrounds.
