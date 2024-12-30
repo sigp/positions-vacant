@@ -8,7 +8,7 @@ Do you thrive on identifying vulnerabilities in decentralised systems and have a
 
 Our flagship project, [Lighthouse](https://lighthouse.sigmaprime.io/), stands as one of the premier Ethereum consensus clients, and is developed in Rust. Backed by grant funding from the Ethereum Foundation, Protocol Guild, ConsenSys, and private contributors, Lighthouse is widely entrusted by institutional and individual users for staking on Ethereum and is a testament to our commitment to excellence and security in decentralised systems.
 
-Our information security practice provides assessment services targetting the following:
+Our information security practice provides assessment services targeting the following:
 
 * Smart contracts (EVM and non-EVM)
 * Zero-knowledge systems
