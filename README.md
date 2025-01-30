@@ -18,6 +18,8 @@ The following position(s) are open:
 - [Go Blockchain Security Engineer](go-security-engineer.md)
 - [Rust Blockchain Security Engineer](rust-security-engineer.md)
 - [Senior Solidity Security Engineer](senior-solidity-sec.md)
+- [Business Operations Assistant](business-operations-assistant.md)
+
 
 ## Get in touch
 
