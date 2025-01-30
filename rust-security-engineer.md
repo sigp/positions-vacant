@@ -38,7 +38,7 @@ As a Rust Security Engineer at Sigma Prime, you'll play a crucial role in assess
 * Proficiency and practical experience in Rust programming.
 * Deep understanding of information security principles.
 * Experience in conducting security assessments and penetration testing.
-* Familiarity with blockchain protocols and decentralized systems.
+* Familiarity with blockchain protocols and decentralised systems.
 * Ability to conduct manual source code reviews and navigate large codebases.
 * Experience with security analysis tools and methodologies.
 
