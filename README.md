@@ -18,6 +18,7 @@ The following position(s) are open:
   - [Rust Blockchain Security Engineer](rust-security-engineer.md)
   - [Senior Solidity Security Engineer](senior-solidity-sec.md)
   - [Rust Engineer](rust-engineer.md)
+  - [Devops Engineer](devops-engineer.md)
 
 ## Get in touch
 
