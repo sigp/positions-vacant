@@ -4,7 +4,7 @@ Are you passionate about securing decentralised systems and deeply familiar with
 
 ## About Us
 
-Sigma Prime is a leading blockchain and security research firm dedicated to building a secure and decentralized world. Since 2015, we have worked closely with industry leaders in the blockchain space, providing top-tier security reviews, design consultancy, and development services.
+Sigma Prime is a leading blockchain and security research firm dedicated to building a secure and decentralised world. Since 2015, we have worked closely with industry leaders in the blockchain space, providing top-tier security reviews, design consultancy, and development services.
 
 Our work spans across various blockchain technologies, but Ethereum has been a key focus, especially with our flagship project, [Lighthouse](https://lighthouse.sigmaprime.io/), a prominent Ethereum consensus client. Our security practice covers smart contracts, zero-knowledge systems, Layer 1 & Layer 2 protocols, and beyond, working on some of the most advanced blockchain projects in the space.
 
@@ -29,7 +29,7 @@ As a Senior Solidity Security Engineer at Sigma Prime, you'll be responsible for
 * Extensive experience with Solidity and Ethereum smart contract development.
 * Proven track record in conducting security reviews or vulnerability assessments on Solidity codebases.
 * Strong understanding of common vulnerabilities in smart contracts (e.g., reentrancy, integer overflow, access control issues).
-* Familiarity with Ethereum-based decentralized systems and blockchain protocols.
+* Familiarity with Ethereum-based decentralised systems and blockchain protocols.
 * Experience with blockchain security tools (e.g., Slither, Certora prover, Foundry, Echidna) and manual code review.
 * Excellent problem-solving skills and attention to detail.
 Strong communication skills, including the ability to write clear and comprehensive security reports.
