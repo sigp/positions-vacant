@@ -1,6 +1,6 @@
 # Wanted: Rust Security Engineer
 
-Do you love writing and reviewing Rust code? Want to secure the future of blockchain technology? Sigma Prime is seeking skilled Rust engineers to join our team. You'll play a crucial role in assessing the security of blockchain projects developed in Rust. Deep blockchain expertise isn’t a must - bring your Rust skills and curiosity, and we’ll help you grow into the decentralized world.
+Do you love writing and reviewing Rust code? Want to secure the future of blockchain technology? Sigma Prime is seeking skilled Rust engineers to join our team. You'll play a crucial role in assessing the security of blockchain projects developed in Rust. Deep blockchain expertise isn’t a must - bring your Rust skills and curiosity, and we’ll help you grow into the decentralised world.
 
 
 ## About Us
@@ -27,13 +27,13 @@ We are a safe place regardless of your ethnicity, gender, sexual orientation or 
 
 As a Rust Security Engineer at Sigma Prime, you’ll use your Rust and security expertise to protect cutting-edge systems. We are looking for engineers who can dive deep into Rust code and apply robust security principles. Blockchain experience is a welcome bonus, but not required.
 
-If you’re passionate about Rust and eager to secure the decentralized future, this role is for you.
+If you’re passionate about Rust and eager to secure the decentralised future, this role is for you.
 
 
 ### Responsibilities
 
 * Review Rust codebases for security vulnerabilities.
-* Apply security best practices to harden decentralized projects.
+* Apply security best practices to harden decentralised projects.
 * Develop advanced fuzzing harnesses to assist with vulnerability identification.
 * Contribute to enhancing the security posture of Lighthouse, our Ethereum consensus client.
 * Collaborate on tools and processes while exploring blockchain tech.
