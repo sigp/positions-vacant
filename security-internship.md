@@ -1,6 +1,6 @@
 # Wanted: Blockchain Security Intern
 
-Sigma Prime is offering an internship for individuals interested in pursuing a career in blockchain security engineering. This is a perfect opportunity to build your experience working in depth with sophisticated and interesting on chain and off chain code from a variety of top level clients, with added potential for possible further career development.
+Sigma Prime is offering an internship for individuals interested in pursuing a career in blockchain security engineering. This is a perfect opportunity to build your experience working in depth with sophisticated and interesting onchain and offchain code from a variety of top level clients, with added potential for possible further career development.
 
 ## The Company
 
@@ -40,13 +40,13 @@ This is a paid internship (USD $4,500 for 6 weeks) which provides an excellent o
 
 Applicants for this internship should have a passionate interest in blockchain technology, especially in the domain of security. We are particularly interested in applicants who can demonstrate an interest in any of the following:
 
-* Blockchain technology (smart contracts, EVM, off chain infrastructure etc.)
+* Blockchain technology (smart contracts, virtual machines, core nodes, P2P networking etc.)
 * Blockchain security concepts (reentrancy, access control etc.)
 * Popular blockchain programming languages:
     * Solidity
-    * Rust (Anchor, Solana)
+    * Rust (Solana, NEAR)
     * Golang
-    * Near
+    * Move (Aptos, Sui)
 * Security tooling (fuzzing, static analysis, dynamic testing etc.)
 
 ### Documents and Materials
@@ -55,7 +55,7 @@ Applicants are encouraged to include links to supporting materials with their ap
 
 ### Locations
 
-The internship allows for both remote and local placement in Sydney. While Sigma Prime is headquartered in NSW, Australia, we embrace remote work as an integral part of our company culture.
+The internship can be undertaken remotely from anywhere in the world. While Sigma Prime is headquartered in NSW, Australia, we embrace remote work as an integral part of our company culture.
 
 ## Applying
 
