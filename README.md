@@ -15,6 +15,7 @@ Currently open roles are listed as separate markdown files in this repository.
 
 The following position(s) are open:
 
+- [Blockchain Security Intern](security-internship.md)
 - [Go Blockchain Security Engineer](go-security-engineer.md)
 - [Rust Blockchain Security Engineer](rust-security-engineer.md)
 - [Senior Solidity Security Engineer](senior-solidity-sec.md)
