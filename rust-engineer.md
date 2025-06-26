@@ -51,7 +51,4 @@ engineers.
 If you're interested, please answer the questions on [this
 form](https://forms.gle/UMu6LZKTNr3uYkiv5)
 
-Whilst Google Forms makes managing applications easier for us, we understand if
-you'd prefer not to use it. In such a case, feel free to send your application
-via email to [careers@sigmaprime.io](mailto:careers@sigmaprime.io).
-
+We look forward to receiving your application!
