@@ -71,6 +71,4 @@ During its 6 week duration, this is a full time position (40 hours/week), but di
 
 If you're interested in this internship opportunity, please complete the application form [here](https://forms.gle/6UXxmxfPYsAzGAt99).
 
-If you prefer not to use the Google Forms application, you can also submit your application via email to [careers@sigmaprime.io](mailto:careers@sigmaprime.io).
-
 We look forward to receiving your application!
