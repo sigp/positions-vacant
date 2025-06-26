@@ -88,9 +88,7 @@ form an integral part of the team.
 If you're interested, please answer the questions on [this
 form](https://forms.gle/JscZg1LaAJGzaMEs6).
 
-Whilst Google Forms makes managing applications easier for us, we understand if
-you'd prefer not to use it. In such a case, feel free to send your application
-via email to [careers@sigmaprime.io](mailto:careers@sigmaprime.io).
+We look forward to receiving your application!
 
 ## The Company
 
