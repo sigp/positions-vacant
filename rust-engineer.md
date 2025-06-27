@@ -19,7 +19,7 @@ in production today; the open-source repository can be found at
 [github.com/sigp/lighthouse](https://github.com/sigp/lighthouse).
 
 We also build and maintain Anchor, which is an SSV client built using Rust. The repository can be found here:
-[github.com/sigp/lighthouse](https://github.com/sigp/anchor).
+[github.com/sigp/anchor](https://github.com/sigp/anchor).
 
 We are a safe place regardless of your ethnicity, gender, sexual orientation or
 any other characteristic that makes you happy and harms no-one.
