@@ -15,7 +15,6 @@ Currently open roles are listed as separate markdown files in this repository.
 
 The following position(s) are open:
 
-- [Blockchain Security Intern](security-internship.md)
 - [Rust Engineer](rust-engineer.md)
 - [Devops Engineer](devops-engineer.md)
 
