@@ -48,7 +48,6 @@ engineers.
 
 ## Apply
 
-If you're interested, please answer the questions on [this
-form](https://forms.gle/UMu6LZKTNr3uYkiv5)
+If you're interested, please [apply here.](https://jobs.ashbyhq.com/sigp/3ec63b85-6bef-4549-a54f-29c6290bc499)
 
 We look forward to receiving your application!
