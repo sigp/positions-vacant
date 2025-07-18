@@ -85,8 +85,7 @@ form an integral part of the team.
 
 ## Apply
 
-If you're interested, please answer the questions on [this
-form](https://forms.gle/JscZg1LaAJGzaMEs6).
+If you're interested, please [apply here.](https://jobs.ashbyhq.com/sigp/a68e6d65-d724-44de-8393-b6a2a0244739)
 
 We look forward to receiving your application!
 
