@@ -9,14 +9,7 @@ our internal team when the right people come along.
 Are you a good fit to join our team? Please take a look at our open positions
 and apply to work with us! We would love to hear from you.
 
-## In this repo.
-
-Currently open roles are listed as separate markdown files in this repository.
-
-The following position(s) are open:
-
-- [Rust Engineer](rust-engineer.md)
-- [Devops Engineer](devops-engineer.md)
+[See all of our current openings here](https://jobs.ashbyhq.com/sigp)
 
 ## Get in touch
 
